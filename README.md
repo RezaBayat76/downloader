@@ -6,3 +6,8 @@ The simple script that downloads every urls using wget.
 
 ./downloader.sh urls.txt
 
+# To do
+
+	- multi thread
+	- scheduler
+
