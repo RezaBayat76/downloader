@@ -8,6 +8,6 @@ The simple script that downloads every urls using wget.
 
 # To do
 
-	- multi thread
+	- multi threads
 	- scheduler
 
